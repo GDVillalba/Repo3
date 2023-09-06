@@ -35,6 +35,7 @@ namespace PluginsDemo1
 
                 try
                 {
+                    // Plugin1 comentario 1
                     // Plug-in business logic goes here.  
                 }
 
